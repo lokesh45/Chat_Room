@@ -1,0 +1,5 @@
+1.Packet Dropping
+2. Go Back N
+3. UDP
+4. 15 clients
+5. Encryption
