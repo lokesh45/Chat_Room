@@ -1,0 +1,6 @@
+cd /mnt/d/IPProjectChatRoom 
+
+
+python3 server.py 192.168.19.1 9014 ipchat101
+
+python3 client.py 192.168.19.1 9014 ipchat101
